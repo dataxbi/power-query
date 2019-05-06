@@ -15,3 +15,7 @@ La sintaxis para crear y ejecutar una función en Power Query se describen en la
 [Conectarse-SQL-Server.pbix](Conectarse-SQL-Server.pbix)
 
 Las opciones para conectarnos a los distintos objetos de una base de datos SQL Server se describen en la entrada de blog https://www.dataxbi.com/blog/conectarse-sql-server-power-bi-desktop-excel-2016
+
+## Ejemplo de Crear y usar funciones para agrupar valores numéricos
+[Clasificación por rangos.pbix](Clasificación por rangos.pbix)
+Los pasos que hemos seguido para construir este archivo se describen en la entrada de blog https://www.dataxbi.com/blog/2019/05/06/crear-usar-funciones-para-agrupar-valores-numericos/
