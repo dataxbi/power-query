@@ -18,4 +18,5 @@ Las opciones para conectarnos a los distintos objetos de una base de datos SQL S
 
 ## Ejemplo de Crear y usar funciones para agrupar valores numéricos
 [Clasificación por rangos.pbix](Clasificación-por-rangos.pbix)
+
 Los pasos que hemos seguido para construir este archivo se describen en la entrada de blog https://www.dataxbi.com/blog/2019/05/06/crear-usar-funciones-para-agrupar-valores-numericos/
