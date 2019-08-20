@@ -20,3 +20,8 @@ Las opciones para conectarnos a los distintos objetos de una base de datos SQL S
 [Clasificación por rangos.pbix](../../raw/master/Clasificación-por-rangos.pbix)
 
 Los pasos que hemos seguido para construir este archivo se describen en la entrada de blog https://www.dataxbi.com/blog/2019/05/06/crear-usar-funciones-para-agrupar-valores-numericos/
+
+## Ejemplo de Crear un calendario en Power Query
+[Calendario Power Query M.pbix](../../raw/master/Calendario-Power-Query-M.pbix)
+
+Los pasos que hemos seguido para construir este archivo se describen en la entrada de blog https://www.dataxbi.com/blog/2019/08/20/crear-un-calendario-en-power-query/
