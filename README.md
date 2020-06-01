@@ -25,3 +25,18 @@ Los pasos que hemos seguido para construir este archivo se describen en la entra
 [Calendario Power Query M.pbix](../../raw/master/Calendario-Power-Query-M.pbix)
 
 Los pasos que hemos seguido para construir este archivo se describen en la entrada de blog https://www.dataxbi.com/blog/2019/08/20/crear-un-calendario-en-power-query/
+
+## Ejemplo del uso de parámetros en Power Query
+[Análisis de Ventas.pbix](../../raw/master/analisis-ventas.pbix)
+
+Puedes ver como crear y usar parámetros en Power Query M en la entrada de blog https://www.dataxbi.com/blog/2019/07/11/parametros-de-consulta/
+
+## Ejemplo de plantilla en Power Query
+[parametros-de-consulta.pbit](../../raw/parametros-de-consulta.pbit)
+
+Puedes ver como crear y usar plantillas en Power BI en la entrada de blog https://www.dataxbi.com/blog/2019/07/11/parametros-de-consulta/
+
+## Back Up de la base de datos de ejemplos Workshop para usar plantillas y parámetros
+[workshop.bak](../../raw/workshop.bak)
+
+Esta base de datos se utilizó en los ejemplos parametros-de-consulta.pbit y analisis-ventas.pbix.
