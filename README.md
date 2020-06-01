@@ -40,3 +40,8 @@ Puedes ver como crear y usar plantillas en Power BI en la entrada de blog https:
 [workshop.bak](../../raw/workshop.bak)
 
 Esta base de datos se utilizó en los ejemplos parametros-de-consulta.pbit y analisis-ventas.pbix.
+
+## Carpeta comprimida de ejemplos plantillas y parámetros
+[objetivos.zip](../../raw/objetivos.zip)
+
+Esta carpeta contiene los objetivos de los comerciales de los últimos tres años.
