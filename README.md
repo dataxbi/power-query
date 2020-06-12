@@ -45,3 +45,8 @@ Esta base de datos se utilizó en los ejemplos parametros-de-consulta.pbit y ana
 [objetivos.zip](../../raw/objetivos.zip)
 
 Esta carpeta contiene los objetivos de los comerciales de los últimos tres años.
+
+## Power Point Parámetrode Consulta de Power Platform España
+[Parámetros de consulta](../../raw/parametros-de-consulta.pptx)
+
+Esta presentación contiene los pasos a seguir de los casos de uso descritos.
